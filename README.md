@@ -16,4 +16,4 @@ Participated in Galvanize Holiday Hackathon 2020, analyzed Amazon review data
 
  **Programs/Languages Used:** Python, Pandas, Seaborn, Tableau
 
- **Source:** 
+ **Source:** https://github.com/seanreed1111/holiday-hackathon-1-ttp/blob/main/README.md
